@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "a4541020-0647-11ec-8ab2-c71490cc3e77",
+      "name": "Admin",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "e26bb9a0-064a-11ec-9a54-a14d2ddc231d",
+      "name": "User",
+      "email": "userone@gmail.com"
+    },
+    {
+      "id": "eb821480-064a-11ec-9a54-a14d2ddc231d",
+      "name": "Supervisor",
+      "email": "supervisor@gmail.com"
+    },
+    {
+      "id": "ed9f8100-0670-11ec-9042-9f008981a4ce",
+      "name": "Manager",
+      "email": "manager@gmail.com"
+    },
+    {
+      "id": "f0d1d530-0670-11ec-9042-9f008981a4ce",
+      "name": "ORIION",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "f5767e10-0670-11ec-9042-9f008981a4ce",
+      "name": "user10",
+      "email": "userone@gmail.com"
+    }
+  ]
+}
